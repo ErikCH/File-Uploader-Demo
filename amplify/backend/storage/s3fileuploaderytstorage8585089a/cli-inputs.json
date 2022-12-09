@@ -1,0 +1,16 @@
+{
+  "resourceName": "s3fileuploaderytstorage8585089a",
+  "bucketName": "file-uploader-yt-storage-8585089a",
+  "policyUUID": "02aec199",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
